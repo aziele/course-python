@@ -1,0 +1,77 @@
+## Zad. 1
+Które z poniższych nazw zmiennych są prawidłowe? Spróbuj przypisać do nich jakieś wartości liczbowe.
+
+```
+name
+n
+user name
+NAME
+_name
+user-name
+1st_name
+user_name
+name_1
+name_100
+n@me
+userName
+```
+
+## Zad. 2
+Utwórz program `hello.py`, który zapyta użytkownika o imię i ulubiony kolor, a następnie wyświetli stosowny komunikat.
+
+```
+$ python3 hello.py
+What is your name? John
+What is your favorite color? blue
+```
+
+Wynik:
+
+```
+John likes blue.
+```
+
+## Zad. 3
+Utwórz program `temperature.py`, który zamieni temperaturę w stopniach Fahrenheita na Celsjusza. Użyj wzoru: 
+C = 5/9 * (F - 32).
+
+```
+$ python3 temperature.py
+Enter temperature in Fahrenheit: 86
+```
+
+Wynik:
+
+```
+Celsius: 30.0
+```
+
+## Zad. 4
+Kartkę papieru można złożyć na pół maksymalnie 7 razy. Utwórz program `paper_fold.py`, który obliczy grubość kartki papieru gdyby można ją było złożyć na pół wiele razy. Standardowa kartka papieru ma grubość 0,05 mm. Po pierwszym złożeniu otrzymujemy kartkę o grubości 0,1 mm. Po drugim złożeniu kartka ma 0,2 mm grubości. Po trzecim złożeniu kartka ma grubość 0.4 mm. Przy siódmym złożeniu kartka ma 6,4 mm.
+
+```
+$ python3 paper_fold.py
+Enter a number of paper folds: 7
+```
+
+Wynik:
+
+```
+Width: 6.4 mm
+```
+
+## Zad. 5
+Utwórz program `mm2km.py`, który pobierze od użytkownika liczbę milimetrów i zamieni ją na liczbę kilometrów, metrów, centymetrów i pozostałych milimetrów.
+
+```
+$ python3 mm2km.py
+Enter number of millimeters [mm]: 1530293
+```
+
+Wynik:
+
+```
+1 km 530 m 29 cm 3 mm
+```
+
+Sprawdź ile kilometrów ma grubość kartki złożonej na pół 45 razy.
