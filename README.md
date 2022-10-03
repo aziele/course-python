@@ -10,16 +10,16 @@ Bioinformatyka, I rok
 
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
-| **01** | 11.10.2021 | Wprowadzenie do języka Python, instalacja, wykonywanie programów, pojęcie zmiennej, liczby  | [lab01](labs/lab01.md)  |
-| **02** | 18.10.2021 | Łańcuchy znaków, instrukcje warunkowe, operatory logiczne, pętla while | lab02  |
-| **03**    | 25.10.2021 | Listy, krotki, pętla for | lab03 |
-| **04**    | 08.11.2021 | Zbiory i słowniki  | lab04 |
-| **05**    | 15.11.2021 | Pliki i obsługa wyjątków  | lab05 |
-| **06**    | 22.11.2021 | Funkcje i zasięg nazw  | lab06 |
-| **07**    | 29.11.2021 | Generatory i listy składane  | lab07 |
-| **08**    | 06.12.2021 | Moduły i biblioteka standardowa  | lab08 |
-| **09**    | 13.12.2021 | Programowanie obiektowe | lab09 |
-| **10**    | DD.MM.2021 | Zaliczenie przedmiotu  | lab10 |
+| **01** | 11.10.2022 | Wprowadzenie do języka Python, instalacja, wykonywanie programów, pojęcie zmiennej, liczby  | [lab01](labs/lab01.md)  |
+| **02** | 18.10.2022 | Łańcuchy znaków, instrukcje warunkowe, operatory logiczne, pętla while | lab02  |
+| **03**    | 25.10.2022 | Listy, krotki, pętla for | lab03 |
+| **04**    | 08.11.2022 | Zbiory i słowniki  | lab04 |
+| **05**    | 15.11.2022 | Pliki i obsługa wyjątków  | lab05 |
+| **06**    | 22.11.2022 | Funkcje i zasięg nazw  | lab06 |
+| **07**    | 29.11.2022 | Generatory i listy składane  | lab07 |
+| **08**    | 06.12.2022 | Moduły i biblioteka standardowa  | lab08 |
+| **09**    | 13.12.2022 | Programowanie obiektowe | lab09 |
+| **10**    | DD.MM.2022 | Zaliczenie przedmiotu  | lab10 |
 
 #### Sprawozdania
 
