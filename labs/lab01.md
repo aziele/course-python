@@ -11,7 +11,6 @@ user-name
 1st_name
 user_name
 name_1
-name_100
 n@me
 userName
 ```
@@ -32,22 +31,21 @@ John likes blue.
 ```
 
 ## Zad. 3
-Utwórz program `temperature.py`, który zamieni temperaturę w stopniach Fahrenheita na Celsjusza. Użyj wzoru: 
-C = 5/9 * (F - 32).
+Utwórz program `volume.py`, który obliczy objętość kuli po podaniu przez użytkownika promienia okręgu.
 
 ```
-$ python3 temperature.py
-Enter temperature in Fahrenheit: 86
+$ python3 app.py
+Enter a radius: 6
 ```
 
 Wynik:
 
 ```
-Celsius: 30.0
+The volume of the sphere is: 904.8
 ```
 
 ## Zad. 4
-Kartkę papieru można złożyć na pół maksymalnie 7 razy. Utwórz program `paper_fold.py`, który obliczy grubość kartki papieru gdyby można ją było złożyć na pół wiele razy. Standardowa kartka papieru ma grubość 0,05 mm. Po pierwszym złożeniu otrzymujemy kartkę o grubości 0,1 mm. Po drugim złożeniu kartka ma 0,2 mm grubości. Po trzecim złożeniu kartka ma grubość 0.4 mm. Przy siódmym złożeniu kartka ma 6,4 mm.
+Kartkę papieru można złożyć na pół maksymalnie 7 razy. Utwórz program `paper_fold.py`, który obliczy grubość kartki papieru gdyby można ją było złożyć na pół wiele razy. Standardowa kartka papieru ma grubość 0,05 mm. Po pierwszym złożeniu otrzymujemy kartkę o grubości 0,1 mm. Po drugim złożeniu kartka ma 0,2 mm grubości. Po trzecim złożeniu kartka ma grubość 0,4 mm. Przy siódmym złożeniu kartka ma 6,4 mm.
 
 ```
 $ python3 paper_fold.py
