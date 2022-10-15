@@ -10,7 +10,7 @@ Bioinformatyka, I rok
 
 | Lab | Data | Opis | Zadania |
 | :---: | --- | --- | :---: |
-| **01** | 11.10.2022 | [Wprowadzenie do języka Python](./intro.pdf), instalacja, wykonywanie programów, pojęcie zmiennej, liczby  | [lab01](labs/lab01.md)  |
+| **01** | 11.10.2022 | [Wprowadzenie do języka Python](./intro.pdf), instalacja, wykonywanie programów, pojęcie zmiennej, [liczby](https://youtu.be/khKv-8q7YmY)  | [lab01](labs/lab01.md)  |
 | **02** | 18.10.2022 | Łańcuchy znaków, instrukcje warunkowe, operatory logiczne, pętla while | lab02  |
 | **03**    | 25.10.2022 | Listy, krotki, pętla for | lab03 |
 | **04**    | 08.11.2022 | Zbiory i słowniki  | lab04 |
