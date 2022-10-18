@@ -75,6 +75,17 @@ Utwórz program `brca2.py`, umieść w nim powyższą zmienną i dodaj instrukcj
 Mówi się, że każdy rok psa równy jest 7 latom człowieka. Na przykład, jak pies ma 10 lat to odpowiada on 70 letniemu człowiekowi. Ponieważ pies zaczyna być dorosły w wieku 2 lat, niektórzy sugerują, aby liczyć dwa pierwsze lata psa po 10,5 lat człowieka, a każdy kolejny rok psa liczyć jako 4 lata. Na przykład, jak pies ma 2 lata to odpowiada on 21-letniemu człowiekowi, jak pies ma 3 lata to odpowiada 25-letniemu człowiekowi. Napisz program `dog.py`, który przeliczy wiek psa na odpowiadający mu wiek człowieka.
 
 
+```
+$ python3 dog.py 
+Enter a dog's age in human years: 4
+```
+
+Wynik:
+
+```
+Dog's age in dog's years: 29.0
+```
+
 ## Zad. 7
 Utwórz program `bmi.py`, który prosi użytkownika o podanie wzrostu (cm) i wagi (kg), i obliczy wskaźnik masy ciała (BMI, *Body Mass Index*). Następnie w oparciu o obliczoną wartość BMI program wyświetli stosowny komunikat.
 
@@ -96,7 +107,7 @@ Utwórz program `bmi.py`, który prosi użytkownika o podanie wzrostu (cm) i wag
 Napisz program `numbers.py`, który odczytuje liczby tak długo, aż użytkownik wprowadzi "quit". Po wpisaniu "quit" program powinien wyświetlić sumę liczb, ile wprowadzono liczb oraz średnią z tych liczb.
 
 ```
-$ python numbers.py
+$ python3 numbers.py
 Type quit to exit the program.
 Enter a number: 3
 Enter a number: 4
