@@ -26,7 +26,7 @@ text = "The Wellcome Trust Sanger Institute is a world leader in genome research
 Wynik:
 
 ```
-Mean word size: 5.1
+Mean word size: 5.2
 ```
 
 
