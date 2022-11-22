@@ -14,7 +14,7 @@ Bioinformatyka, I rok
 | **02** | 18.10.2022 | [Łańcuchy znaków](https://youtu.be/k9TUPpGqYTo), [instrukcje warunkowe, operatory logiczne](https://youtu.be/DZwmZ8Usvnk), [pętla while](https://youtu.be/6iF8Xb7Z3wQ?t=379) | [lab02](labs/lab02.md)  | - |
 | **03**    | 08.11.2022 | [Listy, krotki](https://youtu.be/W8KRzm-HUcc), [pętla for](https://youtu.be/6iF8Xb7Z3wQ) | [lab03](labs/lab03.md) | [03](notebook/lab03.ipynb) |
 | **04**    | 15.11.2022 | [Zbiory](https://youtu.be/W8KRzm-HUcc?t=1416) i [słowniki](https://youtu.be/daefaLgNkw0)  | [lab04](labs/lab04.md) | [04](notebook/lab04.ipynb) |
-| **05**    | 22.11.2022 | Pliki i obsługa wyjątków  | lab05 | - |
+| **05**    | 22.11.2022 | Pliki i obsługa wyjątków  | [lab05](labs/lab05.md) | - |
 | **06**    | 29.11.2022 | Funkcje i zasięg nazw  | lab06 | - |
 | **07**    | 06.12.2022 | Generatory i listy składane  | lab07 | - |
 | **08**    | 13.12.2022 | Moduły i biblioteka standardowa  | lab08 | - |
