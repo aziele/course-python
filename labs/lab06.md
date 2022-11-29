@@ -1,0 +1,145 @@
+## Zad. 1
+Utwórz funkcję `complement`, która przyjmuje sekwencję DNA i zamienia ją na sekwencję komplementarną.
+
+Input:
+
+```python
+cdna = complement('ACTG')
+print(cdna)
+```
+
+Output:
+
+```
+TGAC
+```
+
+## Zad. 2
+Utwórz funkcję `reverse_complement`, która przyjmuje sekwencję DNA i wywołuje funkcję `complement`, aby zwrócić sekwencję odwrotnie komplementarną.
+
+Input:
+
+```python
+rcdna = reverse_complement('ACTG')
+print(rcdna)
+```
+
+Output:
+
+```
+CAGT
+```
+
+## Zad. 3
+Wykorzystując funkcję `reverse_complement` wygeneruj sekwencje odwrotnie komplementarne do sekwencji z poniższej listy.
+
+Input:
+
+```python
+dna_lst = ['CTGACT', 'GCATAGT', 'TAGATTAT', 'CGATGTTTA']
+```
+
+Output:
+
+```python
+cdna_lst = ['AGTCAG', 'ACTATGC', 'ATAATCTA', 'TAAACATCG']
+```
+
+## Zad. 4
+Utwórz funkcję `hamming_distance`, która przyjmuje jako argumenty dwie sekwencje równej długości i oblicza między nimi *dystans Hamminga* - liczba miejsc (pozycji), na których dwie sekwencje się różnią.
+
+Input:
+
+```python
+seq1 = 'GAGCCTACTAACGGGAT'
+seq2 = 'CATCGTAATGACGGCCT'
+distance = hamming_distance(seq1, seq2)
+print(distance)
+```
+
+Output:
+
+```
+7
+```
+
+
+## Zad. 5
+Zapoznaj się poniższym kodem. Następnie utwórz funkcję `mutate`, która w sekwencij DNA wprowadzi jedną losową *substytucję* nukleotydu na losowej pozycji.
+
+```python
+>>> import random
+>>> random.randint(0, 3)
+0
+>>> random.randint(0, 3)
+2
+>>> random.randint(0, 3)
+0
+>>> random.randint(0, 3)
+3
+>>> random.choice(['DNA', 'RNA', 'protein'])
+'RNA'
+>>> random.choice(['DNA', 'RNA', 'protein'])
+'protein'
+```
+
+Output:
+
+```python
+mutate('ATG')       # ACG
+mutate('ATG')       # TTG
+mutate('ATG')       # GTG
+mutate('ATG')       # GTG
+mutate('ATG')       # ATG (nukleotyd może się nie zmienić) 
+```
+
+
+## Zad. 6
+Utwórz funkcję `lotto`, która przeprowadzi losowanie dużego lotka (*losowanie sześciu liczb z zakresu 1-49*).
+
+Output:
+
+```python
+>>> lotto()
+{32, 34, 5, 10, 11, 16}
+>>> lotto()
+{4, 11, 45, 47, 49, 31}
+```
+
+
+## Zad. 7
+Wytypuj własny zestaw sześciu liczb. Następnie wykorzystaj funkcję `lotto` aby wykonać 1 milion losowań i sprawdź, czy trafiłeś(aś) "szóstkę".
+
+
+## Zad. 8
+Zmodyfikuj kod, aby prowadził losowanie dużego lotka do momentu, aż wytypowane zostaną Twoje szczęśliwe liczby (skrypt powinien zwrócić numer losowania).
+
+
+## Zad. 9 (dla chętnych)
+Bakterie wykorzystują enzymy restrykcyjne do walki z wirusami. Enzymy restrykcyjne rozpoznają w sekwencjach genomów wirusów palindromowe sekwencje DNA długości od 4 do 12 nukleotydów i w tych miejscach przeprowadzają rozcięcie cząsteczek wirusa. 
+
+Przykładową sekwencją palindromową jest `GATATC`, ponieważ jej sekwencja odwrotnie komplementarna to `GATATC`.
+
+![palindrome](../images/palindrome.jpg)
+
+Utwórz funkcję `restriction_sites`, która przyjmuje dwa argumenty - sekwencję DNA i długość palindromowej sekwencji, następnie w zadanej sekwencji zidentyfikuje pozycje początku i końca wszystkich palindromowych sekwencji o podanej długości. 
+
+> Wskazówka: Niech funkcja `restriction_sites` skorzysta z już istniejącej funkcji `reverse_complement`.
+
+Input:
+
+```python
+restriction_sites('TCAATGCATGCGGGTCTATATGCAT', size=4)
+```
+
+Output:
+
+```python
+[
+  [5, 8, 'TGCA'],
+  [7, 10, 'CATG'],
+  [17, 20, 'TATA'],
+  [18, 21, 'ATAT'],
+  [21, 24, 'TGCA']
+]
+```
