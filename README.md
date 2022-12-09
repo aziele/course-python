@@ -16,7 +16,7 @@ Bioinformatyka, I rok
 | **04**    | 15.11.2022 | [Zbiory](https://youtu.be/W8KRzm-HUcc?t=1416) i [słowniki](https://youtu.be/daefaLgNkw0)  | [lab04](labs/lab04.md) | [04](notebook/lab04.ipynb) |
 | **05**    | 22.11.2022 | [Pliki](https://youtu.be/Uh2ebFW8OYM) i [obsługa wyjątków](https://youtu.be/NIWwJbo-9_8)  | [lab05](labs/lab05.md) | [05](notebook/lab05.ipynb) |
 | **06**    | 29.11.2022 | [Funkcje](https://youtu.be/9Os0o3wzS_I) i [zasięg nazw](https://youtu.be/QVdf0LgmICw)  | [lab06](labs/lab06.md) | [06](notebook/lab06.ipynb) |
-| **07**    | 06.12.2022 | Generatory i listy składane  | [lab07](labs/lab07.md) | - |
+| **07**    | 06.12.2022 | [Generatory](https://youtu.be/bD05uGo_sVI) i [listy składane](https://youtu.be/3dt4OGnU5sM) | [lab07](labs/lab07.md) | [07](notebook/lab07.ipynb) |
 | **08**    | 13.12.2022 | Moduły i biblioteka standardowa  | lab08 | - |
 | **09**    | DD.12.2022 | Programowanie obiektowe | lab09 | - |
 | **10**    | DD.MM.2022 | Zaliczenie przedmiotu  | lab10 | - |
