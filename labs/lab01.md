@@ -78,7 +78,7 @@ Ile kilometrów ma grubość kartki złożonej na pół 45 razy?
 
 
 ## Zad. 6
-Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w latach, a następnie obliczy i wyświetli przybliżony wiek w sekundach (przyjmując, że rok ma 365 dni).
+Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w latach (liczba całkowita), a następnie obliczy i wyświetli wiek w sekundach (przyjmując, że rok ma 365 dni).
 
 
 ```
@@ -89,5 +89,5 @@ Enter your age in years: 20
 Wynik:
 
 ```
-Your age in seconds is approximately: 319210720 seconds.
+Your age in seconds is approximately: 630720000 seconds.
 ```
