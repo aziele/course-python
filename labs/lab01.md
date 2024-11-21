@@ -44,8 +44,23 @@ Wynik:
 The volume of the sphere is: 904.3
 ```
 
-
 ## Zad. 4
+Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w latach (liczba całkowita), a następnie obliczy i wyświetli wiek w sekundach (przyjmując, że rok ma 365 dni).
+
+
+```
+$ python3 age_in_seconds.py
+Enter your age in years: 20
+```
+
+Wynik:
+
+```
+Your age is: 630720000 seconds.
+```
+
+
+## Zad. 5
 Utwórz program `mm2km.py`, który pobierze od użytkownika liczbę milimetrów i zamieni ją na liczbę kilometrów, metrów, centymetrów i pozostałych milimetrów.
 
 ```
@@ -60,7 +75,7 @@ Wynik:
 ```
 
 
-## Zad. 5
+## Zad. 6
 Kartkę papieru można złożyć na pół maksymalnie 7 razy. Utwórz program `paper_fold.py`, który obliczy grubość kartki papieru gdyby można ją było złożyć na pół wiele razy. Standardowa kartka papieru ma grubość 0,05 mm. Po pierwszym złożeniu otrzymujemy kartkę o grubości 0,1 mm. Po drugim złożeniu kartka ma 0,2 mm grubości. Po trzecim złożeniu kartka ma grubość 0,4 mm. Przy siódmym złożeniu kartka ma 6,4 mm.
 
 ```
@@ -75,19 +90,3 @@ Width: 6.4 mm
 ```
 
 Ile kilometrów ma grubość kartki złożonej na pół 45 razy?
-
-
-## Zad. 6
-Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w latach (liczba całkowita), a następnie obliczy i wyświetli wiek w sekundach (przyjmując, że rok ma 365 dni).
-
-
-```
-$ python3 age_in_seconds.py
-Enter your age in years: 20
-```
-
-Wynik:
-
-```
-Your age in seconds is approximately: 630720000 seconds.
-```
