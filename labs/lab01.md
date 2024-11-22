@@ -19,7 +19,7 @@ userName
 Utwórz program `hello.py`, który zapyta użytkownika o imię i ulubiony kolor, a następnie wyświetli stosowny komunikat.
 
 ```
-$ python3 hello.py
+$ python hello.py
 What is your name? John
 What is your favorite color? blue
 ```
@@ -34,7 +34,7 @@ John likes blue.
 Utwórz program `volume.py`, który obliczy objętość kuli po podaniu przez użytkownika promienia okręgu.
 
 ```
-$ python3 app.py
+$ python app.py
 Enter a radius: 6
 ```
 
@@ -49,7 +49,7 @@ Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w la
 
 
 ```
-$ python3 age_in_seconds.py
+$ python age_in_seconds.py
 Enter your age in years: 20
 ```
 
@@ -64,7 +64,7 @@ Your age is: 630720000 seconds.
 Utwórz program `mm2km.py`, który pobierze od użytkownika liczbę milimetrów i zamieni ją na liczbę kilometrów, metrów, centymetrów i pozostałych milimetrów.
 
 ```
-$ python3 mm2km.py
+$ python mm2km.py
 Enter number of millimeters [mm]: 1530293
 ```
 
@@ -79,7 +79,7 @@ Wynik:
 Kartkę papieru można złożyć na pół maksymalnie 7 razy. Utwórz program `paper_fold.py`, który obliczy grubość kartki papieru gdyby można ją było złożyć na pół wiele razy. Standardowa kartka papieru ma grubość 0,05 mm. Po pierwszym złożeniu otrzymujemy kartkę o grubości 0,1 mm. Po drugim złożeniu kartka ma 0,2 mm grubości. Po trzecim złożeniu kartka ma grubość 0,4 mm. Przy siódmym złożeniu kartka ma 6,4 mm.
 
 ```
-$ python3 paper_fold.py
+$ python paper_fold.py
 Enter a number of paper folds: 7
 ```
 
