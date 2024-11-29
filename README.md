@@ -11,7 +11,7 @@ Bioinformatyka, I rok
 | Lab | Data | Opis | Zadania | Notatki |
 | :---: | --- | --- | --- | :---: |
 | **01** | 20.11.2024 | [Wprowadzenie do języka Python](./intro.pdf), instalacja, wykonywanie programów, pojęcie zmiennej, [liczby](https://youtu.be/khKv-8q7YmY) | [lab01](./labs/lab01.md) | [n01](./notes/n01.ipynb) |
-| **02** | 27.11.2024 | Łańcuchy znaków, instrukcje warunkowe, operatory logiczne, pętla while | [lab02](./labs/lab02.md)  | [n02](./notes/n02.ipynb) |
+| **02** | 27.11.2024 | [Łańcuchy znaków](https://youtu.be/k9TUPpGqYTo), [instrukcje warunkowe, operatory logiczne](https://youtu.be/DZwmZ8Usvnk), [pętla while](https://youtu.be/6iF8Xb7Z3wQ?t=379) | [lab02](./labs/lab02.md)  | [n02](./notes/n02.ipynb) |
 | **03**    | 04.12.2024 | Listy, krotki, pętla for | - | - |
 | **04**    | 11.12.2024 | Zbiory i słowniki  | - | - |
 | **05**    | 18.12.2024 | Pliki i obsługa wyjątków | - | - |

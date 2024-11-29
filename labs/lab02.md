@@ -19,13 +19,13 @@ Utwórz program `dna2rna.py`, który przyjmie od użytkownika sekwencję DNA i z
 
 ```
 $ python dna2rna.py
-DNA sequence: ATGCTGC
+DNA sequence: ATGCTGCCC
 ```
 
 Wynik:
 
 ```
-RNA sequence: AUGCUGC
+RNA sequence: AUGCUGCCC
 ```
 
 ## Zad. 3
