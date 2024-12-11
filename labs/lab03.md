@@ -49,8 +49,8 @@ Utwórz program `rev_comp.py`, który w opariu o pętle `for` i instrukcje `if` 
 ```python
 seq = input("Enter a DNA sequence: ")
 
-# 5` ATGCAATC 3`  <-- sekwencja użytkownika
-# 3` GATTGCAT 5`  <-- sekwencja komplementarna
+# ATGCAATC  <-- sekwencja użytkownika
+# GATTGCAT  <-- sekwencja (odwrotnie) komplementarna
 ```
 
 
