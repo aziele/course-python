@@ -65,7 +65,17 @@ Output:
 
 
 ## Zad. 5
-Utwórz funkcję `lotto`, która przeprowadzi losowanie dużego lotka (*losowanie sześciu liczb z zakresu 1-49*).
+Zapoznaj się poniższym kodem. Następnie utwórz funkcję `lotto`, która przeprowadzi losowanie dużego lotka (*losowanie sześciu liczb z zakresu 1-49*).
+
+```python
+>>> import random
+>>> random.randint(1, 49)
+22
+>>> random.randint(1, 49)
+3
+>>> random.randint(1, 49)
+34
+```
 
 Output:
 
