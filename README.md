@@ -15,7 +15,7 @@ Bioinformatyka, I rok
 | **03**    | 04.12.2024 | [Listy, krotki](https://youtu.be/W8KRzm-HUcc), [pętla for](https://youtu.be/6iF8Xb7Z3wQ) | [lab03](labs/lab03.md) | [n03](./notes/n03.ipynb) |
 | **04**    | 11.12.2024 | [Zbiory](https://youtu.be/W8KRzm-HUcc?t=1416) i [słowniki](https://youtu.be/daefaLgNkw0) | [lab04](labs/lab04.md) | [n04](./notes/n04.ipynb) |
 | **05**    | 18.12.2024 | [Pliki](https://youtu.be/Uh2ebFW8OYM) i [obsługa wyjątków](https://youtu.be/NIWwJbo-9_8) | [lab05](labs/lab05.md) | [n05](./notes/n05.ipynb) |
-| **06**    | 08.01.2025 | Funkcje i zasięg nazw | - | - |
+| **06**    | 08.01.2025 | Funkcje i zasięg nazw | [lab06](labs/lab06.md) | [n06](./notes/n06.ipynb) |
 | **07**    | 15.01.2025 | Generatory i listy składane | - | - |
 | **08**    | 22.01.2025 | Moduły i biblioteka standardowa | - | - |
 | **09**    | 29.01.2025 | Zaliczenie przedmiotu  | - | - |
