@@ -18,7 +18,7 @@ Bioinformatyka, I rok
 | **06**    | 08.01.2025 | [Funkcje](https://youtu.be/9Os0o3wzS_I) i [zasięg nazw](https://youtu.be/QVdf0LgmICw) | [lab06](labs/lab06.md) | [n06](./notes/n06.ipynb) |
 | **07**    | 15.01.2025 | [Generatory](https://youtu.be/bD05uGo_sVI) i [listy składane](https://youtu.be/3dt4OGnU5sM) | [lab07](labs/lab07.md) | [n07](./notes/n07.ipynb) |
 | **08**    | 22.01.2025 | Moduły i biblioteka standardowa | - | - |
-| **09**    | 29.01.2025 | Zaliczenie przedmiotu  | - | - |
+| **09**    | do ustalenia | Zaliczenie przedmiotu  | - | - |
 
 #### Sprawozdania
 
