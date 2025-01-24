@@ -1,10 +1,5 @@
 ## Zad. 1
-Utwórz program `random_dna.py`, który będzie generował losową sekwencję DNA o podanej przez użytkownika długości.
-
-```python
-import sys
-print(sys.argv)
-```
+Utwórz program `random_dna.py`, który będzie generował losową sekwencję DNA o zadanej długości. Długość sekwencji powinna być przekazywana jako argument wiersza poleceń podczas uruchamiania `random_dna.py`.
 
 ```bash
 python random_dna.py 50
@@ -15,6 +10,14 @@ Wynik:
 ```
 ATTGCTGATGATGAGTAGATCGTATAGGATTAGTAGAGATATGATAGAGC
 ```
+
+Wskazówka:
+
+```python
+import sys
+print(sys.argv)
+```
+
 
 ## Zad. 2
 Utwórz program `simulation.py`, który 100 razy wykona program `random_dna.py` dla sekwencji długości 20 nukleotydów.
