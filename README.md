@@ -35,8 +35,8 @@ Sprawozdania należy przesyłać na zadania na platformie MsTeams.
 #### Kryteria zaliczenia
 
 Na ocenę końcową przedmiotu składają się oceny z:
-* testu zaliczeniowego (waga: 60%)
-* składanych sprawozdań (waga: 30%)
+* testu zaliczeniowego (waga: 70%)
+* składanych sprawozdań (waga: 20%)
 * aktywność i obecność na zajęciach (waga: 10%)
 
 ### Materiały dodatkowe
