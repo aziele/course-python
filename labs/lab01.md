@@ -10,15 +10,15 @@ Hello world!
 Które z poniższych nazw zmiennych są prawidłowe? Spróbuj odpowiedzieć bez testowania kodu.
 
 ```
-name
-n
-user name
-NAME
-_name
-user-name
-1st_name
-user_name
-name_1
-n@me
-userName
+name               # 1
+n                  # 2
+user name          # 3
+NAME               # 4
+_name              # 5
+user-name          # 6
+1st_name           # 7
+user_name          # 8
+name_1             # 9
+n@me               # 10
+userName           # 11
 ```
