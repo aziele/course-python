@@ -74,3 +74,21 @@ Wynik:
 ```
 Human years: 29.0
 ```
+
+
+## Zad. 6 (dla chętnych)
+Utwórz program `bmi.py`, który prosi użytkownika o podanie wzrostu (cm) i wagi (kg), i obliczy wskaźnik masy ciała (BMI, *Body Mass Index*). Następnie w oparciu o obliczoną wartość BMI program wyświetli stosowny komunikat.
+
+```python
+#              waga (kg)
+# BMI = -----------------------
+#       wzrost (m) * wzrost (m)
+# 
+# Na przykład, BMI osoby ważącej 70 kg i mierzącej 175
+# wynosi 70 / (1.75 * 1.75) = 22.86
+
+# BMI >30       obesity
+# BMI (25, 30]  overweight
+# BMI [19, 25]  normal weight
+# BMI <19       underweight
+```
