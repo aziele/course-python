@@ -12,7 +12,7 @@ Bioinformatyka, I rok
 | Lab | Data | Opis | Zadania | Notatki |
 | :---: | --- | --- | --- | :---: |
 | **01** | 08.10.2025 | [Wprowadzenie do języka Python](./intro.pdf), instalacja, wykonywanie programów | [lab01](./labs/lab01.md) | [notes01](./notes/01.ipynb) |
-| **02** | 15.10.2025 | Liczby, operatory logiczne | - | - |
+| **02** | 15.10.2025 | Liczby, wartości i operatory logiczne | [lab02](./labs/lab02.md) | - |
 | **03** | 22.10.2025 | Łańcuchy znaków | - | - |
 | **04** | 29.10.2025 | Instrukcje warunkowe, pętla while | - | - |
 | **05** | 05.11.2025 | Listy, krotki | - | - |
