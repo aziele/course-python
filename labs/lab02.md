@@ -12,6 +12,7 @@ Wynik:
 The volume of the sphere is: 3052.08
 ```
 
+
 ## Zad. 2
 Napisz program `age_in_seconds.py`, który poprosi użytkownika o jego wiek w latach (liczba całkowita), a następnie obliczy i wyświetli wiek w sekundach (przyjmując, że rok ma 365 dni).
 
@@ -61,6 +62,23 @@ Ile kilometrów ma grubość kartki złożonej na pół 45 razy? Oblicz to uruch
 
 
 ## Zad. 5
+Poniższy program jest poprawny pod względem składni języka Python, ale zawiera *błąd logiczny*. Napraw poniższy kod, aby działał prawidłowo.
+
+```python
+age = int(input('How old are you? '))
+
+if age > 13:
+    print("You can get ice cream")
+elif age > 18:
+    print("You are an adult")
+elif age > 5:
+    print("You can get candy")
+else:
+    print("You need a nap") 
+```
+
+
+## Zad. 6
 Mówi się, że każdy rok psa jest równy siedmiu latom człowieka. Na przykład, jak pies ma 10 lat to odpowiada on 70 letniemu człowiekowi. Ponieważ pies zaczyna być dorosły w wieku 2 lat, niektórzy sugerują, aby liczyć dwa pierwsze lata psa po 10,5 lat człowieka, a każdy kolejny rok psa liczyć jako 4 lata. Na przykład, jak pies ma 2 lata to odpowiada on 21-letniemu człowiekowi, jak pies ma 3 lata to odpowiada 25-letniemu człowiekowi. Napisz program `dog.py`, który przeliczy wiek psa (liczbę całkowitą) na odpowiadający mu wiek człowieka.
 
 
@@ -76,7 +94,7 @@ Human years: 29.0
 ```
 
 
-## Zad. 6 (dla chętnych)
+## Zad. 7 (dla chętnych)
 Utwórz program `bmi.py`, który prosi użytkownika o podanie wzrostu (cm) i wagi (kg), i obliczy wskaźnik masy ciała (BMI, *Body Mass Index*). Następnie w oparciu o obliczoną wartość BMI program wyświetli stosowny komunikat.
 
 ```python
