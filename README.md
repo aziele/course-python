@@ -13,7 +13,7 @@ Bioinformatyka, I rok
 | :---: | --- | --- | --- | :---: |
 | **01** | 08.10.2025 | [Wprowadzenie do języka Python](./intro.pdf), instalacja, wykonywanie programów | [lab01](./labs/lab01.md) | [notes01](./notes/01.ipynb) |
 | **02** | 15.10.2025 | [Liczby](https://youtu.be/khKv-8q7YmY), wyrażenia i operatory logiczne | [lab02](./labs/lab02.md) | [notes02](./notes/02.ipynb) |
-| **03** | 22.10.2025 | Łańcuchy znaków | - | - |
+| **03** | 22.10.2025 | Łańcuchy znaków | [lab03](./labs/lab03.md) | [notes03](./notes/03.ipynb) |
 | **04** | 29.10.2025 | Pętla while, pętla for | - | - |
 | **05** | 05.11.2025 | Listy, krotki | - | - |
 | **06** | 12.11.2025 | Pętla for | - | - |
