@@ -16,15 +16,15 @@ Bioinformatyka, I rok
 | **03** | 22.10.2025 | [Łańcuchy znaków](https://youtu.be/k9TUPpGqYTo) | [lab03](./labs/lab03.md) | [notes03](./notes/03.ipynb) |
 | **04** | 29.10.2025 | Pętla for, pętla while | [lab04](./labs/lab04.md) | [notes04](./notes/04.ipynb) |
 | **05** | 05.11.2025 | Listy, krotki | - | - |
-| **06** | 12.11.2025 | Pętla for | - | - |
-| **07** | 19.11.2025 | Słowniki | - | - |
-| **08** | 26.11.2025 | Pliki | - | - |
-| **09** | 03.12.2025 | Zbiory | - | - |
-| **10** | 10.12.2025 | Funkcje | - | - |
-| **11** | 17.12.2025 | Generatory i listy składane | - | - |
-| **12** | 07.01.2026 | Moduły i zasięgi nazw | - | - |
-| **13** | 14.01.2026 | Klasy | - | - |
-| **14** | 21.01.2026 | Biblioteka standardowa | - | - |
+| **06** | 12.11.2025 | Słowniki | - | - |
+| **07** | 19.11.2025 | Pliki | - | - |
+| **08** | 26.11.2025 | Zbiory | - | - |
+| **09** | 03.12.2025 | Funkcje | - | - |
+| **10** | 10.12.2025 | Generatory i listy składane | - | - |
+| **11** | 17.12.2025 | Moduły i zasięgi nazw | - | - |
+| **12** | 07.01.2026 | Klasy | - | - |
+| **13** | 14.01.2026 | Biblioteka standardowa | - | - |
+| **14** | 21.01.2026 | Biblioteki naukowe | - | - |
 | **15** | 28.01.2026 | Zaliczenie przedmiotu | - | - |
 
 
