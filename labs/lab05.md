@@ -1,5 +1,5 @@
 ## Zad. 1
-Napisz program `square_list.py`, który za pomocą funkcji `range` i pętli `for` utworzy listę kwadratów liczb od 1 do 15.
+Napisz program `square_list.py`, który za pomocą pętli `for` i funkcji `range` utworzy listę kwadratów liczb od 1 do 15.
 
 ```
 $ python square_list.py
@@ -53,7 +53,7 @@ ATACTGA
 
 
 ## Zad. 5
-Utwórz program `filter_seq.py`, który ma poniższą listę sekwencji DNA:
+Utwórz program `filter_seq.py`, umieść w nim poniższą listę sekwencji:
 
 ```python
 sequences = ['ATGCGT', 'ATG', 'ATGCTGA', 'TTGGA', 'A']
