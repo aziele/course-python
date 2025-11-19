@@ -17,7 +17,7 @@ Bioinformatyka, I rok
 | **04** | 29.10.2025 | [Pętla for](https://youtu.be/6iF8Xb7Z3wQ), [pętla while](https://youtu.be/6iF8Xb7Z3wQ?t=379) | [lab04](./labs/lab04.md) | [notes04](./notes/04.ipynb) |
 | **05** | 05.11.2025 | [Listy, krotki](https://youtu.be/W8KRzm-HUcc) | [lab05](./labs/lab05.md) | [notes05](./notes/05.ipynb) |
 | **06** | 12.11.2025 | [Słowniki](https://youtu.be/daefaLgNkw0) | [lab06](./labs/lab06.md) | [notes06](./notes/06.ipynb) |
-| **07** | 19.11.2025 | Pliki | - | - |
+| **07** | 19.11.2025 | [Pliki](https://youtu.be/Uh2ebFW8OYM) | [lab07](./labs/lab07.md) | [notes07](./notes/07.ipynb) |
 | **08** | 26.11.2025 | Zbiory | - | - |
 | **09** | 03.12.2025 | Funkcje | - | - |
 | **10** | 10.12.2025 | Generatory i listy składane | - | - |
