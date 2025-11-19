@@ -68,7 +68,7 @@ count    word
 
 
 ## Zad. 7
-W pliku [lotto_history.txt](../data/lotto_history.txt) znajdują się wszystkie historyczne wyniki losowania Dużego Lotka od 27.01.1957 do 10.12.2024. Napisz program `lotto_history.py`, który przedstawi procentowy udział każdej z 49 liczb w odbytych losowaniach.
+W pliku [lotto_history.txt](../data/lotto_history.txt) znajdują się wszystkie historyczne wyniki losowania Dużego Lotka od 27.01.1957 do 15.11.2025. Napisz program `lotto_history.py`, który przedstawi procentowy udział każdej z 49 liczb w odbytych losowaniach.
 
 Wynik:
 
