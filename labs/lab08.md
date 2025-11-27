@@ -14,7 +14,7 @@ Wynik:
 
 
 ## Zad. 2
-W trzech plikach [cancer1.txt](../data/cancer1.txt), [cancer2.txt](../data/cancer2.txt) i [control.txt](../data/control.txt) znajdują się nazwy genów, które wykazują podwyższony poziom ekspresji, odpowiednio, dla pacjentów z nowotworem skóry, białaczki i ludzi zdrowych.
+W trzech plikach [cancer1.txt](../data/cancer1.txt), [cancer2.txt](../data/cancer2.txt) i [control.txt](../data/control.txt) znajdują się nazwy genów, które wykazują podwyższony poziom ekspresji, odpowiednio, u pacjentów z nowotworem skóry, białaczki i ludzi zdrowych.
 
 Utwórz program `common_genes.py`, który wyszuka geny charakterystyczne jedynie dla pacjentów chorych na oba typy raka (i których nie ma w control) i zapisze je do pliku tekstowego `cancer_common.txt`
 
