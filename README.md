@@ -19,12 +19,12 @@ Bioinformatyka, I rok
 | **06** | 12.11.2025 | [Słowniki](https://youtu.be/daefaLgNkw0) | [lab06](./labs/lab06.md) | [notes06](./notes/06.ipynb) |
 | **07** | 19.11.2025 | [Pliki](https://youtu.be/Uh2ebFW8OYM) | [lab07](./labs/lab07.md) | [notes07](./notes/07.ipynb) |
 | **08** | 26.11.2025 | [Zbiory](https://youtu.be/W8KRzm-HUcc?t=1416), [obsługa wyjątków](https://youtu.be/NIWwJbo-9_8) | [lab08](./labs/lab08.md) | [notes08](./notes/08.ipynb) |
-| **09** | 03.12.2025 | Funkcje | - | - |
-| **10** | 10.12.2025 | Generatory i listy składane | - | - |
-| **11** | 17.12.2025 | Moduły i zasięgi nazw | - | - |
-| **12** | 07.01.2026 | Klasy | - | - |
-| **13** | 14.01.2026 | Biblioteka standardowa | - | - |
-| **14** | 21.01.2026 | Biblioteki naukowe | - | - |
+| **09** | 03.12.2025 | Funkcje | [lab09](./labs/lab09.md) | [notes09](./notes/09.ipynb) |
+| **10** | 10.12.2025 | Zasięgi nazw, listy składane | - | - |
+| **11** | 17.12.2025 | Generatory | - | - |
+| **12** | 07.01.2026 | Moduły | - | - |
+| **13** | 14.01.2026 | Klasy | - | - |
+| **14** | 21.01.2026 | Biblioteka standardowa | - | - |
 | **15** | 28.01.2026 | Zaliczenie przedmiotu | - | - |
 
 
