@@ -27,7 +27,7 @@ def complement(dna):
 
 
 ## Zad. 3
-Plik [genes.txt](./data/genes.txt) zawiera nazwy genów (po jednym w wierszu). Użyj listy składanej, aby utworzyć listę genów, których nazwa ma co najmniej 6 znaków.
+Plik [genes.txt](../data/genes.txt) zawiera nazwy genów (po jednym w wierszu). Użyj listy składanej, aby utworzyć listę genów, których nazwa ma co najmniej 6 znaków.
 
 
 ## Zad. 4
