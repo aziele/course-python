@@ -20,7 +20,7 @@ Bioinformatyka, I rok
 | **07** | 19.11.2025 | [Pliki](https://youtu.be/Uh2ebFW8OYM) | [lab07](./labs/lab07.md) | [notes07](./notes/07.ipynb) |
 | **08** | 26.11.2025 | [Zbiory](https://youtu.be/W8KRzm-HUcc?t=1416), [obsługa wyjątków](https://youtu.be/NIWwJbo-9_8) | [lab08](./labs/lab08.md) | [notes08](./notes/08.ipynb) |
 | **09** | 03.12.2025 | [Funkcje](https://youtu.be/9Os0o3wzS_I) | [lab09](./labs/lab09.md) | [notes09](./notes/09.ipynb) |
-| **10** | 10.12.2025 | Zasięgi nazw, listy składane | [lab10](./labs/lab10.md) | [notes10](./notes/10.ipynb) |
+| **10** | 10.12.2025 | [Zasięgi nazw](https://youtu.be/QVdf0LgmICw), [listy składane](https://youtu.be/3dt4OGnU5sM) | [lab10](./labs/lab10.md) | [notes10](./notes/10.ipynb) |
 | **11** | 17.12.2025 | Generatory | - | - |
 | **12** | 07.01.2026 | Moduły | - | - |
 | **13** | 14.01.2026 | Klasy | - | - |
