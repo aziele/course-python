@@ -76,7 +76,7 @@ Simulating 1,000,000 rolls of 3 dice...
 
 
 ## Zad. 6* (dla chętnych)
-W pliku [consensus.fasta](./data/consensus.fasta) jest 10 sekwencji DNA o równej długości.
+W pliku [consensus.fasta](../data/consensus.fasta) jest 10 sekwencji DNA o równej długości.
 
 Napisz program `consensus.py`, który na podstawie tych sekwencji wyznaczy sekwencję konsensusową, czyli taki ciąg znaków, w którym dla każdej pozycji wybierany jest nukleotyd najczęściej występujący w tej pozycji wśród 10 sekwencji. W przypadku remisu wybierz nukleotyd alfabetycznie wcześniejszy.
 
