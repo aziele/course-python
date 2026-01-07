@@ -22,7 +22,7 @@ Bioinformatyka, I rok
 | **09** | 03.12.2025 | [Funkcje](https://youtu.be/9Os0o3wzS_I) | [lab09](./labs/lab09.md) | [notes09](./notes/09.ipynb) |
 | **10** | 10.12.2025 | [Zasięgi nazw](https://youtu.be/QVdf0LgmICw), [listy składane](https://youtu.be/3dt4OGnU5sM) | [lab10](./labs/lab10.md) | [notes10](./notes/10.ipynb) |
 | **11** | 17.12.2025 | [Generatory](https://youtu.be/bD05uGo_sVI) | [lab11](./labs/lab11.md) | [notes11](./notes/11.ipynb) |
-| **12** | 07.01.2026 | Moduły | - | - |
+| **12** | 07.01.2026 | Moduły | [lab12](./labs/lab12.md) | - |
 | **13** | 14.01.2026 | Klasy | - | - |
 | **14** | 21.01.2026 | Biblioteka standardowa | - | - |
 | **15** | 28.01.2026 | Zaliczenie przedmiotu | - | - |
