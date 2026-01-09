@@ -1,3 +1,4 @@
+# Moduł: dna.py
 version = '1.0'
 
 def complement(seq):
@@ -11,3 +12,13 @@ if __name__ == '__main__':
     seq = input('Enter a DNA sequence: ')
     cseq = complement(seq)
     print(f'Complement: {cseq}')
+
+
+# Skrypt: app.py
+import dna
+
+version = '0.5'
+
+print(dna.complement('ATGC'))
+print(dna.version)
+print(version)
