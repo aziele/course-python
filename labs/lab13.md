@@ -50,9 +50,9 @@ class DNARecord(SeqRecord):
         return self.complement()[::-1]
 ```
 
-## Zad. 3
+## Zad. 2
 W klasie `DNARecord` dodaj metodę `mutate`, która w sekwencij DNA wprowadzi jedną losową substytucję nukleotydu na losowej pozycji.
 
 
-## Zad. 4
+## Zad. 3
 Utwórz klasę `ProteinRecord`, która będzie podrzędna do klasy `SeqRecord`. W klasie `ProteinRecord` utwórz metodę `aromaticity`, która oblicza *aromatyczność białka* (procentowy udziału aminokwasów aromatycznych: `Y` + `W` + `F`).
