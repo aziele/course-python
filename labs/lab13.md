@@ -18,7 +18,7 @@ class SeqRecord:
         return d
 
     def fasta(self):
-        desc = self. description if self.description else ''
+        desc = self.description if self.description else ''
         return f'>{self.id} {desc}\n{self.seq}'
 
     def __str__(self):
