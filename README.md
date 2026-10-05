@@ -22,7 +22,7 @@ Bioinformatyka, I rok
 | **09** | 01.12.2026 | Funkcje | - | - |
 | **10** | 08.12.2026 | Zasięgi nazw, listy składane | - | -|
 | **11** | 15.12.2026 | Generatory | - | - |
-| **12** | 22.12.2027 | Moduły | - | - |
+| **12** | 22.12.2026 | Moduły | - | - |
 | **13** | 12.01.2027 | Programowanie obiektowe | - | - |
 | **14** | 19.01.2027 | Biblioteka standardowa | - | - |
 | **15** | 01.02.2027 | Zaliczenie przedmiotu | - | - |
