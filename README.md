@@ -13,19 +13,19 @@ Bioinformatyka, I rok
 | :---: | --- | --- | --- | :---: |
 | **01** | 06.10.2026 | [Wprowadzenie do języka Python](./intro.pdf), pierwszy program | [lab01](./labs/lab01.md) | [note01](./notes/01.ipynb) |
 | **02** | 13.10.2026 | Liczby, wyrażenia i operatory, instrukcja if | [lab02](./labs/lab02.md) | - |
-| **03** | 20.10.2026 | Łańcuchy znaków | - | - |
-| **04** | 27.10.2026 | Pętla for, pętla while | - | - |
-| **05** | 03.11.2026 | Listy, krotki | - | - |
-| **06** | 10.11.2026 | Słowniki | - | - |
-| **07** | 17.11.2026 | Pliki | - | - |
-| **08** | 24.11.2026 | Zbiory, obsługa wyjątków | - | - |
-| **09** | 01.12.2026 | Funkcje | - | - |
-| **10** | 08.12.2026 | Zasięgi nazw, listy składane | - | -|
-| **11** | 15.12.2026 | Generatory | - | - |
-| **12** | 22.12.2026 | Moduły | - | - |
-| **13** | 12.01.2027 | Programowanie obiektowe | - | - |
-| **14** | 19.01.2027 | Biblioteka standardowa | - | - |
-| **15** | 01.02.2027 | Zaliczenie przedmiotu | - | - |
+| **03** | 22.10.2026 | Łańcuchy znaków | - | - |
+| **04** | 29.10.2026 | Pętla for, pętla while | - | - |
+| **05** | 05.11.2026 | Listy, krotki | - | - |
+| **06** | 12.11.2026 | Słowniki | - | - |
+| **07** | 19.11.2026 | Pliki | - | - |
+| **08** | 26.11.2026 | Zbiory, obsługa wyjątków | - | - |
+| **09** | 03.12.2026 | Funkcje | - | - |
+| **10** | 10.12.2026 | Zasięgi nazw, listy składane | - | -|
+| **11** | 17.12.2026 | Generatory | - | - |
+| **12** | 07.01.2027 | Moduły | - | - |
+| **13** | 14.01.2027 | Programowanie obiektowe | - | - |
+| **14** | 21.01.2027 | Biblioteka standardowa | - | - |
+| **15** | 28.02.2027 | Zaliczenie przedmiotu | - | - |
 
 
 #### Sprawozdania

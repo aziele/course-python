@@ -30,7 +30,7 @@ Your age is: 630720000 seconds.
 
 
 ## Zad. 3
-Utwórz program `mm2km.py`, który pobierze od użytkownika liczbę milimetrów i zamieni ją na liczbę kilometrów, metrów, centymetrów i pozostałych milimetrów.
+Utwórz program `mm2km.py`, który pobierze od użytkownika liczbę milimetrów (liczba całkowita) i zamieni ją na liczbę kilometrów, metrów, centymetrów i pozostałych milimetrów.
 
 ```
 $ python mm2km.py
@@ -62,7 +62,7 @@ Width: 6.4 mm
 ## Zad. 5
 Ile kilometrów ma grubość kartki złożonej na pół 45 razy? 
 
-Oblicz to uruchamiając programy `paper_fold.py` i `mm2km.py`.
+W tym celu uruchom program `paper_fold.py`, a następnie zamień całkowitą liczbę milimetrów uruchamiając program `mm2km.py`.
 
 
 ## Zad. 6
