@@ -11,8 +11,8 @@ Bioinformatyka, I rok
 
 | Lab | Data | Opis | Zadania | Notatki |
 | :---: | --- | --- | --- | :---: |
-| **01** | 06.10.2026 | [Wprowadzenie do języka Python](./intro.pdf), pierwszy program | [lab01](./labs/lab01.md) | [note01](./notes/01.ipynb) |
-| **02** | 13.10.2026 | Liczby, wyrażenia i operatory, instrukcja if | [lab02](./labs/lab02.md) | - |
+| **01** | 06.10.2026 | [Wprowadzenie do języka Python](./intro.pdf), pierwszy program | [lab01](./labs/lab01.md) | [notes01](./notes/01.ipynb) |
+| **02** | 13.10.2026 | [Liczby](https://youtu.be/khKv-8q7YmY), wyrażenia i operatory, instrukcja if | [lab02](./labs/lab02.md) | [notes02](./notes/02.ipynb) |
 | **03** | 22.10.2026 | Łańcuchy znaków | - | - |
 | **04** | 29.10.2026 | Pętla for, pętla while | - | - |
 | **05** | 05.11.2026 | Listy, krotki | - | - |
