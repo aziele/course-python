@@ -84,7 +84,7 @@ The number 4 is not prime.
 Napisz program `trinucleotides.py`, który wypisze wszystkie trzynukleotydowe wyrazy znajdujące się w poniższej sekwencji.
 
 ```python
-dna = 'ATGCTGATGATGAT'
+dna = "ATGCTGATGATGAT"
 ```
 
 Wynik:
