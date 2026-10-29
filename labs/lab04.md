@@ -31,7 +31,13 @@ Wynik:
 Napisz program `forloop.py` i umieść w nim pętle `for`, która wyświetli poniższy wynik:
 
 ```
-1 4 9 16 25 36 49
+1
+4
+9
+16
+25
+36
+49
 ```
 
 
