@@ -25,8 +25,12 @@ Bioinformatyka, I rok
 | **12** | 07.01.2027 | Moduły | - | - |
 | **13** | 14.01.2027 | Programowanie obiektowe | - | - |
 | **14** | 21.01.2027 | Biblioteka standardowa | - | - |
-| **15** | 28.02.2027 | Zaliczenie przedmiotu | - | - |
+| **15** | 28.01.2027 | Zaliczenie przedmiotu | - | - |
 
+
+#### Zadanie projektowe (dla chętnych)
+
+Dla osób, które chcą spróbować swoich sił w większym projekcie: [wyszukiwanie powtórzeń terminalnych w sekwencjach DNA](./labs/project-extra.md). Zadanie wykorzystuje zagadnienia omawiane w całym cyklu zajęć (1–15).
 
 #### Sprawozdania
 
@@ -37,7 +41,7 @@ Sprawozdania należy przesyłać za pośrednictwem zadań na platformie Microsof
 Na ocenę końcową przedmiotu składają się oceny z:
 * testu zaliczeniowego (waga: 70%)
 * składanych sprawozdań (waga: 20%)
-* aktywność i obecność na zajęciach (waga: 10%)
+* aktywność i obecności na zajęciach (waga: 10%)
 
 #### Nieobecności
 
