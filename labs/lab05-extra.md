@@ -21,7 +21,7 @@ sequence = "ATATATGATATATGCTAGTCGATGATCGATATATATGCGTAGATGCTAGCTGATCGATATATAT"
 motif = "ATAT"
 ```
 
-Znajdź wszystkie pozycje początkowe motywu, również gdy wystąpienia na siebie zachodzą. Zapisz je na liście, numerując od 1.
+Znajdź wszystkie pozycje początkowe motywu, również gdy wystąpienia na siebie zachodzą. Zapisz je w liście, numerując od 1.
 
 Wynik:
 
