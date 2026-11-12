@@ -16,7 +16,7 @@ Bioinformatyka, I rok
 | **03** | 22.10.2026 | [Łańcuchy znaków](https://youtu.be/k9TUPpGqYTo) | [lab03](./labs/lab03.md) | [notes03](./notes/03.ipynb) |
 | **04** | 29.10.2026 | [Pętla for](https://youtu.be/6iF8Xb7Z3wQ), [pętla while](https://youtu.be/6iF8Xb7Z3wQ?t=379) | [lab04](./labs/lab04.md) | [notes04](./notes/04.ipynb) |
 | **05** | 05.11.2026 | [Listy, krotki](https://youtu.be/W8KRzm-HUcc) | [lab05](./labs/lab05.md), [dla chętnych](./labs/lab05-extra.md) | [notes05](./notes/05.ipynb) |
-| **06** | 12.11.2026 | Słowniki | -| - |
+| **06** | 12.11.2026 | Słowniki | [lab06](./labs/lab06.md)| - |
 | **07** | 19.11.2026 | Pliki | - | - |
 | **08** | 26.11.2026 | Zbiory, obsługa wyjątków | - | - |
 | **09** | 03.12.2026 | Funkcje | - | - |
