@@ -71,7 +71,7 @@ Wynik:
 
 
 ## Zad. 7. (dla chętnych)
-Dwa wyrazy są anagramami, jeżeli można otrzymać jeden z drugiego przez przestawienie liter, np. `silent` i `listen`.
+Dwa wyrazy są anagramami, jeżeli można otrzymać jeden z drugiego przez przestawienie wszystkich liter, np. `silent` i `listen`.
 
 Napisz program `anagrams.py`, który w pliku [english_words.txt](../data/english_words.txt) znajdzie grupy wyrazów będących anagramami. Uwzględnij wyrazy składające się z co najmniej 5 liter. Zapisz każdą grupę (zawierającą co najmniej dwa różne wyrazy) w osobnym wierszu w pliku wynikowym `anagrams.txt`.
 
